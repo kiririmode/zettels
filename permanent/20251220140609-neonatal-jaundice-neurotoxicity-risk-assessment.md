@@ -96,8 +96,8 @@ flowchart TD
 
 ## 関連ノート（Links）
 
-- [[20251220140610-early-onset-jaundice-clinical-significance]] 生後24時間以内黄疸の特殊性と溶血性疾患の除外方法
-- [[20251220140611-phototherapy-bilirubin-photoisomerization]] リスク評価の結果として実施される光線療法のメカニズム
+- [[20251220140610-early-onset-jaundice-clinical-significance|生後24時間以内黄疸の臨床的意義と溶血性疾患の除外]] 生後24時間以内黄疸の特殊性と溶血性疾患の除外方法
+- [[20251220140611-phototherapy-bilirubin-photoisomerization|光線療法によるビリルビン光異性化のメカニズム]] リスク評価の結果として実施される光線療法のメカニズム
 
 （注：医療系ノートは新規作成のため、既存の関連ノートは少ない。今後、小児科・新生児医療・リスク評価・臨床判断に関するノートとリンクを形成していく）
 

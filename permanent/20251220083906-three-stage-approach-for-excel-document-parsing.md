@@ -122,11 +122,11 @@ flowchart TD
 
 ## 関連ノート（Links）
 
-- [[20251220083748-excel-document-as-visual-layout-tool]] - Excel文書の定義と解析困難性（前提）
-- [[20251220084026-libreoffice-uno-page-break-control]] - LibreOffice UNOによるページ区切り制御（第3段階の詳細）
-- [[20251214135849-llm-instruction-following-limits]] - LLM指示追従能力の限界（Vision APIの活用理由）
-- [[20251214140318-agent-config-high-leverage-point]] - 設定ファイルの重要性（文書処理パイプラインの設計）
-- [[20251129172155-temporality-conversion-challenges]] - データ変換の課題（形式変換の複雑性と類似）
+- [[20251220083748-excel-document-as-visual-layout-tool|セル・枠線・オブジェクトで構成される「Excel文書」とその解析困難性]] - Excel文書の定義と解析困難性（前提）
+- [[20251220084026-libreoffice-uno-page-break-control|LibreOffice UNOによるページ区切り制御のExcel→PDF変換]] - LibreOffice UNOによるページ区切り制御（第3段階の詳細）
+- [[20251214135849-llm-instruction-following-limits|LLM指示追従能力の定量的限界と劣化特性]] - LLM指示追従能力の限界（Vision APIの活用理由）
+- [[20251214140318-agent-config-high-leverage-point|エージェント設定ファイルの高レバレッジ特性と慎重な設計の必要性]] - 設定ファイルの重要性（文書処理パイプラインの設計）
+- [[20251129172155-temporality-conversion-challenges|Temporality変換の課題と方法]] - データ変換の課題（形式変換の複雑性と類似）
 
 ## To-Do / 次に考えること
 

@@ -130,8 +130,8 @@ sequenceDiagram
 
 ## 関連ノート（Links）
 
-- [[20251220140609-neonatal-jaundice-neurotoxicity-risk-assessment]] 光線療法の開始判断となる治療閾値の決定方法
-- [[20251220140610-early-onset-jaundice-clinical-significance]] 溶血性黄疸など、光線療法が必要になる病態
+- [[20251220140609-neonatal-jaundice-neurotoxicity-risk-assessment|新生児黄疸における神経毒性リスク因子の階層的評価]] 光線療法の開始判断となる治療閾値の決定方法
+- [[20251220140610-early-onset-jaundice-clinical-significance|生後24時間以内黄疸の臨床的意義と溶血性疾患の除外]] 溶血性黄疸など、光線療法が必要になる病態
 
 （注：医療系ノートは新規作成のため、既存の関連ノートは少ない。今後、光化学・新生児医療・治療モニタリングに関するノートとリンクを形成していく）
 

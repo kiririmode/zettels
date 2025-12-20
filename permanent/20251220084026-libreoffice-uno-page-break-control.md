@@ -154,11 +154,11 @@ flowchart TD
 
 ## 関連ノート（Links）
 
-- [[20251220083906-three-stage-approach-for-excel-document-parsing]] - 3段階アプローチの第3段階として位置づけられる
-- [[20251220083748-excel-document-as-visual-layout-tool]] - Excel文書の視覚的レイアウトの重要性（ページ区切りの影響）
-- [[20251214140318-agent-config-high-leverage-point]] - 設定ファイルの高レバレッジ性（自動化パイプラインの設計）
-- [[20251129190003-github-api-copilot-usage-conversion]] - API変換処理の例（データ変換パイプライン）
-- [[20251129172155-temporality-conversion-challenges]] - 変換処理の課題（形式変換の複雑性）
+- [[20251220083906-three-stage-approach-for-excel-document-parsing|Excel文書をLLM/RAGで扱うための3段階アプローチ]] - 3段階アプローチの第3段階として位置づけられる
+- [[20251220083748-excel-document-as-visual-layout-tool|セル・枠線・オブジェクトで構成される「Excel文書」とその解析困難性]] - Excel文書の視覚的レイアウトの重要性（ページ区切りの影響）
+- [[20251214140318-agent-config-high-leverage-point|エージェント設定ファイルの高レバレッジ特性と慎重な設計の必要性]] - 設定ファイルの高レバレッジ性（自動化パイプラインの設計）
+- [[20251129190003-github-api-copilot-usage-conversion|GitHub API からの Copilot 利用レポート変換]] - API変換処理の例（データ変換パイプライン）
+- [[20251129172155-temporality-conversion-challenges|Temporality変換の課題と方法]] - 変換処理の課題（形式変換の複雑性）
 
 ## To-Do / 次に考えること
 
