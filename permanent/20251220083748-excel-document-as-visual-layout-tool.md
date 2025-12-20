@@ -94,8 +94,8 @@ flowchart LR
 
 ## 関連ノート（Links）
 
-- [[20251220083906-three-stage-approach-for-excel-document-parsing]] - Excel文書を扱うための3段階アプローチ
-- [[20251220084026-libreoffice-uno-page-break-control]] - LibreOffice UNOによるページ区切り制御
+- [[20251220083906-three-stage-approach-for-excel-document-parsing|Excel文書をLLM/RAGで扱うための3段階アプローチ]] - Excel文書を扱うための3段階アプローチ
+- [[20251220084026-libreoffice-uno-page-break-control|LibreOffice UNOによるページ区切り制御のExcel→PDF変換]] - LibreOffice UNOによるページ区切り制御
 - [[20251214135849-llm-instruction-following-limits|LLM指示追従能力の定量的限界と劣化特性]] - LLM指示追従能力の限界（視覚理解の課題と関連）
 - [[20251214135546-llm-stateless-configuration-implication|LLMのステートレス性が設定ファイルに与える影響]] - LLMのステートレス性（構造理解の困難さと関連）
 - [[20251214140318-agent-config-high-leverage-point|エージェント設定ファイルの高レバレッジ特性と慎重な設計の必要性]] - 設定ファイルの重要性（文書フォーマット標準化の示唆）
