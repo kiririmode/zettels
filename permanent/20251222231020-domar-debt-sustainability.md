@@ -2,7 +2,7 @@
 id: 2025-12-22-231020
 title: ドーマー条件：g>rが債務対GDP比の安定を可能にする条件
 created: 2025-12-22 23:10:20
-updated: 2025-12-22 23:24:37
+updated: 2025-12-22 23:10:20
 tags:
   - zettel
   - economics
@@ -137,11 +137,10 @@ flowchart LR
 
 ## 関連ノート（Links）
 
-- [[20251222232249-nominal-real-growth-rate]] - 名目成長率と実質成長率の違い（ドーマー条件で使う「g」の定義）
-- [[20251221231127-refundable-tax-credit-basic-mechanism]] - 財政政策の制度設計の別の側面
-- [[20251221231128-refundable-tax-credit-work-incentive-design]] - インセンティブ設計と財政負担のトレードオフ
-- [[20251215101906-khazzoom-brookes-postulate]] - マクロ経済成長のパラドックス
-- [[20251221223329-one-time-revenue-fixed-cost-mismatch-risk]] - 収入と固定費のミスマッチによる財務リスク（ミクロ版の類似構造）
+- [[20251221231127-refundable-tax-credit-basic-mechanism|給付付き税額控除：税額控除と現金給付を統合する制度設計]] - 財政政策の制度設計の別の側面
+- [[20251221231128-refundable-tax-credit-work-incentive-design|給付付き税額控除の就労インセンティブ設計：フェーズイン・プラトー・フェーズアウト構造]] - インセンティブ設計と財政負担のトレードオフ
+- [[20251215101906-khazzoom-brookes-postulate|Khazzoom-Brookes仮説：エネルギー効率化とマクロ経済成長]] - マクロ経済成長のパラドックス
+- [[20251221223329-one-time-revenue-fixed-cost-mismatch-risk|単発収入で固定費を積む財務リスク]] - 収入と固定費のミスマッチによる財務リスク（ミクロ版の類似構造）
 
 ## To-Do / 次に考えること
 
