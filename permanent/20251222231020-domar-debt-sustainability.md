@@ -2,7 +2,7 @@
 id: 2025-12-22-231020
 title: ドーマー条件：g>rが債務対GDP比の安定を可能にする条件
 created: 2025-12-22 23:10:20
-updated: 2025-12-22 23:10:20
+updated: 2025-12-22 23:24:37
 tags:
   - zettel
   - economics
@@ -137,6 +137,7 @@ flowchart LR
 
 ## 関連ノート（Links）
 
+- [[20251222232249-nominal-real-growth-rate]] - 名目成長率と実質成長率の違い（ドーマー条件で使う「g」の定義）
 - [[20251221231127-refundable-tax-credit-basic-mechanism]] - 財政政策の制度設計の別の側面
 - [[20251221231128-refundable-tax-credit-work-incentive-design]] - インセンティブ設計と財政負担のトレードオフ
 - [[20251215101906-khazzoom-brookes-postulate]] - マクロ経済成長のパラドックス
