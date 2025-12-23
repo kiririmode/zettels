@@ -71,8 +71,8 @@ flowchart TD
 
 ## 関連ノート（Links）
 
-- [[20251222235356-soccer-acl-injury-performance-impact]] - サッカー選手への具体的影響
-- [[20251222235357-neuromuscular-training-acl-prevention]] - 予防のためのトレーニング手法
+- [[20251222235356-soccer-acl-injury-performance-impact|サッカー選手のACL断裂が競技パフォーマンスに与える影響]] - サッカー選手への具体的影響
+- [[20251222235357-neuromuscular-training-acl-prevention|神経筋トレーニングによるACL損傷予防]] - 予防のためのトレーニング手法
 
 ## To-Do / 次に考えること
 
