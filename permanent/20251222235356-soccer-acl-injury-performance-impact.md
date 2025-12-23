@@ -108,8 +108,8 @@ flowchart TD
 
 ## 関連ノート（Links）
 
-- [[20251222235355-non-contact-acl-injury-mechanism]] - 受傷メカニズムの基本
-- [[20251222235357-neuromuscular-training-acl-prevention]] - 予防と再発防止のアプローチ
+- [[20251222235355-non-contact-acl-injury-mechanism|非接触型ACL損傷のメカニズム]] - 受傷メカニズムの基本
+- [[20251222235357-neuromuscular-training-acl-prevention|神経筋トレーニングによるACL損傷予防]] - 予防と再発防止のアプローチ
 
 ## To-Do / 次に考えること
 

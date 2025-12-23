@@ -113,8 +113,8 @@ flowchart TD
 
 ## 関連ノート（Links）
 
-- [[20251222235355-non-contact-acl-injury-mechanism]] - どのような動作が危険か
-- [[20251222235356-soccer-acl-injury-performance-impact]] - 予防がなぜ重要か
+- [[20251222235355-non-contact-acl-injury-mechanism|非接触型ACL損傷のメカニズム]] - どのような動作が危険か
+- [[20251222235356-soccer-acl-injury-performance-impact|サッカー選手のACL断裂が競技パフォーマンスに与える影響]] - 予防がなぜ重要か
 
 ## To-Do / 次に考えること
 
