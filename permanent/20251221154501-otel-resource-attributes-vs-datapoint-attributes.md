@@ -2,7 +2,7 @@
 id: 20251221154501
 title: OpenTelemetry メトリクスの Resource attributes と Data point attributes の違い
 created: 2025-12-21 15:45:01
-updated: 2025-12-21 15:45:01
+updated: 2025-12-24 11:10:24
 tags:
   - zettel
   - opentelemetry
@@ -148,11 +148,11 @@ ResourceMetrics:
 
 ## 関連ノート（Links）
 
+- [[20251224110733-otel-target-info-resource-attribute-management|OpenTelemetryのtarget_infoメトリクスによるResource属性管理]] - Resource属性をtarget_infoに分離する設計パターン
 - [[20251221154459-loadbalancing-exporter-routing-key-resource|loadbalancingexporter の routing_key:resource はリソース属性でルーティングする]] - Resource attributesでのルーティング
 - [[20251221154500-loadbalancing-exporter-routing-key-streamid|loadbalancingexporter の routing_key:streamID は時系列単位でルーティングする]] - Data point attributesを含むルーティング
 - [[20251221154502-otel-attribute-promotion-pattern|OpenTelemetry における属性昇格パターン]] - 属性をResource側に昇格させる方法
 - [[202511291440-load-balancing-exporter|OpenTelemetry Collector Load Balancing Exporterの概要]] - ルーティングキーとの関係
-- [[20251129181833-temporality-protocol-details|OpenTelemetry Temporalityのプロトコルレベル詳細]] - OTLPデータモデル
 
 ## To-Do / 次に考えること
 
