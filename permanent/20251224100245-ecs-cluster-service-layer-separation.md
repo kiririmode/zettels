@@ -120,11 +120,11 @@ graph TB
 
 ## 関連ノート（Links）
 
-- [[20251220130053-ecs-dual-health-check-structure]] - ECS における別のレイヤー分離の例（ヘルスチェックの二重構造）
-- [[20251223133637-service-discovery-registry-vs-proxy-responsibility]] - サービス間通信における責任範囲の分離
-- [[20251215085324-knowledge-creation-reading]] - 概念の明確な分類が理解を助ける例
-- [[20251214235033-claude-md-strategic-design-principles]] - 責務の明確化による設計原則
-- [[20251129160317-ai-role-division-what-why-how]] - 役割分担の原則（What/Why/How の分離）
+- [[20251220130053-ecs-dual-health-check-structure|ECS ヘルスチェックの二重構造]] - ECS における別のレイヤー分離の例（ヘルスチェックの二重構造）
+- [[20251223133637-service-discovery-registry-vs-proxy-responsibility|サービスディスカバリにおけるレジストリ型とプロキシ型の接続責任範囲]] - サービス間通信における責任範囲の分離
+- [[20251215085324-knowledge-creation-reading|知識生成型読書への転換]] - 概念の明確な分類が理解を助ける例
+- [[20251214235033-claude-md-strategic-design-principles|CLAUDE.mdファイルの戦略的設計原則]] - 責務の明確化による設計原則
+- [[20251129160317-ai-role-division-what-why-how|AI連携開発における役割分担の原則]] - 役割分担の原則（What/Why/How の分離）
 
 ## To-Do / 次に考えること
 
