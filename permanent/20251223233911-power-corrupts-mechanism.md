@@ -93,11 +93,11 @@ graph TD
 
 ## 関連ノート（Links）
 
-- [[20251223233758-power-seeking-self-selection-bias]] - 権力への自己選択バイアス（前段階の問題）
-- [[20251223234018-system-design-prevent-power-corruption]] - この腐敗メカニズムへの対策（責任・監視の設計）
-- [[20251215095358-tag-enforcement-governance]] - ガバナンス戦略と権力の制約
-- [[20251220050826-manual-and-automated-testing-two-step-verification]] - チェック機構の設計（権力の監視）
-- [[20251214140010-progressive-disclosure-agent-context]] - 段階的な情報開示と透明性の確保
+- [[20251223233758-power-seeking-self-selection-bias|権力への自己選択バイアス：不適切な人がリーダーになる構造]] - 権力への自己選択バイアス（前段階の問題）
+- [[20251223234018-system-design-prevent-power-corruption|権力腐敗を防ぐシステム設計の3要素：選抜・責任・監視]] - この腐敗メカニズムへの対策（責任・監視の設計）
+- [[20251215095358-tag-enforcement-governance|作成時タグ強制によるガバナンス戦略]] - ガバナンス戦略と権力の制約
+- [[20251220050826-manual-and-automated-testing-two-step-verification|マニュアルテストと自動テストによる二段階検証]] - チェック機構の設計（権力の監視）
+- [[20251214140010-progressive-disclosure-agent-context|Progressive Disclosureによる段階的コンテキスト開示]] - 段階的な情報開示と透明性の確保
 
 ## To-Do / 次に考えること
 

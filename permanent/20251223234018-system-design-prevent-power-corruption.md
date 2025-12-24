@@ -115,11 +115,11 @@ graph TD
 
 ## 関連ノート（Links）
 
-- [[20251223233758-power-seeking-self-selection-bias]] - 選抜段階での問題（このzettelの「選抜」で対処）
-- [[20251223233911-power-corrupts-mechanism]] - 権力獲得後の問題（このzettelの「責任」「監視」で対処）
-- [[20251215095358-tag-enforcement-governance]] - ガバナンス戦略の具体例
-- [[20251220050826-manual-and-automated-testing-two-step-verification]] - 二段階検証の考え方（監視の設計に応用可能）
-- [[20251215001119-claude-code-github-actions-automation]] - 自動化による透明性確保の事例
+- [[20251223233758-power-seeking-self-selection-bias|権力への自己選択バイアス：不適切な人がリーダーになる構造]] - 選抜段階での問題（このzettelの「選抜」で対処）
+- [[20251223233911-power-corrupts-mechanism|権力による腐敗メカニズム：権力が人の共感と行動を変える理由]] - 権力獲得後の問題（このzettelの「責任」「監視」で対処）
+- [[20251215095358-tag-enforcement-governance|作成時タグ強制によるガバナンス戦略]] - ガバナンス戦略の具体例
+- [[20251220050826-manual-and-automated-testing-two-step-verification|マニュアルテストと自動テストによる二段階検証]] - 二段階検証の考え方（監視の設計に応用可能）
+- [[20251215001119-claude-code-github-actions-automation|Claude Code GitHub Actions による運用自動化]] - 自動化による透明性確保の事例
 
 ## To-Do / 次に考えること
 
