@@ -105,11 +105,10 @@ graph TB
 
 ## 関連ノート（Links）
 
-- [[20251224130048-le9-engine-design-tradeoff-expander-bleed-cycle]] トレードオフの設計思想（性能 vs コスト vs 信頼性）という観点で類似
-- [[20251223234018-system-design-prevent-power-corruption]] システム設計における役割分担と監視の原則が、ピッチ上の役割設計と通じる
-- [[20251129160317-ai-role-division-what-why-how]] What/Why/Howの役割分担が、「WB=幅、シャドー=崩し、CB=安定」という機能分担と対応
-- [[20251221152244-consistent-hashing-locality-principle]] 「局所的影響の原理」がWBの疲労やシャドーの無力化が全体に波及する構造と類似
-- [[20251221223638-multidimensional-investment-outcome-evaluation-framework]] 多面的評価の考え方が、フォーメーションの「攻撃/守備/可変性/選手負荷」という多軸評価と通じる
+- [[20251223234018-system-design-prevent-power-corruption|権力腐敗を防ぐシステム設計の3要素：選抜・責任・監視]] システム設計における役割分担と監視の原則が、ピッチ上の役割設計と通じる
+- [[20251129160317-ai-role-division-what-why-how|AI連携開発における役割分担の原則]] What/Why/Howの役割分担が、「WB=幅、シャドー=崩し、CB=安定」という機能分担と対応
+- [[20251221152244-consistent-hashing-locality-principle|Consistent Hashingの局所的影響の原理]] 「局所的影響の原理」がWBの疲労やシャドーの無力化が全体に波及する構造と類似
+- [[20251221223638-multidimensional-investment-outcome-evaluation-framework|投資成果の多面的評価フレームワーク]] 多面的評価の考え方が、フォーメーションの「攻撃/守備/可変性/選手負荷」という多軸評価と通じる
 
 ## To-Do / 次に考えること
 
