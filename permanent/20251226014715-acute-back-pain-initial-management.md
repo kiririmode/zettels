@@ -161,10 +161,10 @@ flowchart TD
 
 ## 関連ノート（Links）
 
-- [[20251226014643-acute-lumbar-pain-pathophysiology]] - 病態理解が対処法の根拠
-- [[20251226014700-acute-back-pain-red-flags]] - 対処前にレッドフラグ除外が必須
-- [[20251220050704-code-delivery-with-proof-of-work]] - 「動作証明されたもの」を届ける責任（医療では「エビデンスに基づく対処」）
-- [[20251220050826-manual-and-automated-testing-two-step-verification]] - 二段階検証の思考（初期対処→経過観察→必要なら受診）
+- [[20251226014643-acute-lumbar-pain-pathophysiology|ぎっくり腰（急性腰痛症）の病態メカニズム]] - 病態理解が対処法の根拠
+- [[20251226014700-acute-back-pain-red-flags|急性腰痛のレッドフラグ（危険サイン）識別法]] - 対処前にレッドフラグ除外が必須
+- [[20251220050704-code-delivery-with-proof-of-work|エンジニアの責任は動作証明されたコードを届けることである]] - 「動作証明されたもの」を届ける責任（医療では「エビデンスに基づく対処」）
+- [[20251220050826-manual-and-automated-testing-two-step-verification|マニュアルテストと自動テストによる二段階検証]] - 二段階検証の思考（初期対処→経過観察→必要なら受診）
 
 ## To-Do / 次に考えること
 
