@@ -48,12 +48,12 @@ source:
 
 ```mermaid
 flowchart TD
-    subgraph 順位制（チンパンジー型）
+    subgraph 順位制チンパンジー型
     A1["最高権力者"] --> B1["中間層"]
     B1 --> C1["下位層"]
     end
 
-    subgraph 逆順位制（人間型）
+    subgraph 逆順位制人間型
     D1["成り上がり者<br/>（権力を求める）"]
     E1["集団の抑制"]
     F1["平等な構成員"]

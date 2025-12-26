@@ -50,13 +50,13 @@ source:
 
 ```mermaid
 flowchart TD
-    subgraph 従来の採用（自己選択のみ）
+    subgraph 従来の採用
     A1["権力職の募集"] --> B1["応募者"]
     B1 --> C1["支配欲の強い人<br/>サイコパス的特性"]
     C1 --> D1["不適切な人が採用"]
     end
 
-    subgraph プロアクティブ・リクルートメント
+    subgraph プロアクティブリクルートメント
     A2["権力職の必要性"] --> B2["目につかない適任者を探す"]
     B2 --> C2["共感的で慎重な人<br/>権力を求めない人"]
     C2 --> D2["積極的に声を掛ける"]
@@ -66,10 +66,6 @@ flowchart TD
 
     G["ニュージーランド警察"] -.-> B2
     H["世界有数の効果的で<br/>職権濫用の少ない警察"] -.-> F2
-
-    style D1 fill:#ffcccc
-    style F2 fill:#ccffcc
-    style B2 fill:#ffffcc
 ```
 
 ### 具体例・ケース
