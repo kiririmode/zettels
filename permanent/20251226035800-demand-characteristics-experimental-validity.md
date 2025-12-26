@@ -98,11 +98,11 @@ flowchart LR
 
 ## 関連ノート（Links）
 
-- [[20251226035625-stanford-prison-experiment-critical-revaluation]] スタンフォード監獄実験の批判的再評価
-- [[20251215010141-magazine-book-statistical-confusion]] データの選択性・方法論の問題
-- [[20251220050704-code-delivery-with-proof-of-work]] 動作証明の重要性（実験でも検証可能性が重要）
-- [[20251214235033-claude-md-strategic-design-principles]] 設計原則・批判的思考
-- [[20251129160320-ai-task-granularity]] タスク粒度と効率（実験設計の粒度にも関連）
+- [[20251226035625-stanford-prison-experiment-critical-revaluation|スタンフォード監獄実験の批判的再評価]] スタンフォード監獄実験の批判的再評価
+- [[20251215010141-magazine-book-statistical-confusion|書籍と雑誌の統計的混同]] データの選択性・方法論の問題
+- [[20251220050704-code-delivery-with-proof-of-work|エンジニアの責任は動作証明されたコードを届けることである]] 動作証明の重要性（実験でも検証可能性が重要）
+- [[20251214235033-claude-md-strategic-design-principles|CLAUDE.mdファイルの戦略的設計原則]] 設計原則・批判的思考
+- [[20251129160320-ai-task-granularity|AIへのタスク粒度と効率の関係]] タスク粒度と効率（実験設計の粒度にも関連）
 
 ## To-Do / 次に考えること
 

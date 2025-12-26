@@ -94,11 +94,11 @@ flowchart TD
 
 ## 関連ノート（Links）
 
-- [[20251226035800-demand-characteristics-experimental-validity]] 需要特性と心理実験の妥当性（今回作成）
-- [[20251215010141-magazine-book-statistical-confusion]] データの選択性・記録の問題に関連
-- [[20251220050704-code-delivery-with-proof-of-work]] 動作証明の重要性（研究でも再現性が重要）
-- [[20251129225832-coding-agent-estimation-disruption]] 従来の見積もり破壊（SPEも従来の定説破壊に類似）
-- [[20251214235033-claude-md-strategic-design-principles]] 批判的思考・設計原則の重要性
+- [[20251226035800-demand-characteristics-experimental-validity|需要特性と心理実験の妥当性]] 需要特性と心理実験の妥当性（今回作成）
+- [[20251215010141-magazine-book-statistical-confusion|書籍と雑誌の統計的混同]] データの選択性・記録の問題に関連
+- [[20251220050704-code-delivery-with-proof-of-work|エンジニアの責任は動作証明されたコードを届けることである]] 動作証明の重要性（研究でも再現性が重要）
+- [[20251129225832-coding-agent-estimation-disruption|コーディングエージェントが従来の見積もりを破壊する理由]] 従来の見積もり破壊（SPEも従来の定説破壊に類似）
+- [[20251214235033-claude-md-strategic-design-principles|CLAUDE.mdファイルの戦略的設計原則]] 批判的思考・設計原則の重要性
 
 ## To-Do / 次に考えること
 
