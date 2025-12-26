@@ -103,11 +103,11 @@ graph TB
 
 ## 関連ノート（Links）
 
-- [[20251226025657-3-4-2-1-formation-tactical-guide]] 3-4-2-1フォーメーションにおける2ボランチの役割と重要性
-- [[20251129160317-ai-role-division-what-why-how]] What/Why/Howの役割分担が、「守備＝What、接続＝How、リスク管理＝Why」という機能分担と対応
-- [[20251223234018-system-design-prevent-power-corruption]] システム設計における役割分担と監視の原則が、ピッチ上のボランチの「監視と調整」機能と類似
-- [[20251221152244-consistent-hashing-locality-principle]] 「局所的影響の原理」がボランチの疲労や機能不全が全体に波及する構造と類似
-- [[20251224130048-le9-engine-design-tradeoff-expander-bleed-cycle]] トレードオフの設計思想（1ボランチ vs 2ボランチの安定性 vs 攻撃力）という観点で類似
+- [[20251226025657-3-4-2-1-formation-tactical-guide|3-4-2-1フォーメーションの戦術的特徴と成功条件]] 3-4-2-1フォーメーションにおける2ボランチの役割と重要性
+- [[20251129160317-ai-role-division-what-why-how|AI連携開発における役割分担の原則]] What/Why/Howの役割分担が、「守備＝What、接続＝How、リスク管理＝Why」という機能分担と対応
+- [[20251223234018-system-design-prevent-power-corruption|権力腐敗を防ぐシステム設計の3要素：選抜・責任・監視]] システム設計における役割分担と監視の原則が、ピッチ上のボランチの「監視と調整」機能と類似
+- [[20251221152244-consistent-hashing-locality-principle|Consistent Hashingの局所的影響の原理]] 「局所的影響の原理」がボランチの疲労や機能不全が全体に波及する構造と類似
+- [[20251224130048-le9-engine-design-tradeoff-expander-bleed-cycle|LE-9エンジンの設計選択：エキスパンダーブリードサイクルによる低コスト化と信頼性のトレードオフ]] トレードオフの設計思想（1ボランチ vs 2ボランチの安定性 vs 攻撃力）という観点で類似
 
 ## To-Do / 次に考えること
 

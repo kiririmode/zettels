@@ -187,9 +187,9 @@ outcome: Deal closed, 11-month sales cycle
 
 - [[20251226033300-context-graph-decision-system-of-record|Context Graphと決定のシステム・オブ・レコード]] - 決定痕跡を保存する全体アーキテクチャ
 - [[20251226033500-systems-of-agents-three-strategic-paths|Systems of Agentsスタートアップの3つの戦略パス]] - 決定痕跡を捕捉する戦略的アプローチ
-- [[20251215085324-knowledge-creation-reading|知識生成型読書への転換]] - 暗黙知を明示知に変換する考え方
-- [[20251223234018-system-design-prevent-power-corruption|権力腐敗を防ぐシステム設計の3要素：選抜・責任・監視]] - 透明性と説明責任の設計原則
+- [[20251215085324-knowledge-creation-reading|知識生成型読書への転換]] - 暗黙知を明示知に変換する
 - [[20251214140318-agent-config-high-leverage-point|エージェント設定ファイルの高レバレッジ特性と慎重な設計の必要性]] - エージェントに与えるべき情報の設計
+- [[20251223230257-ai-design-generation-spec-registry|AI詳細設計生成における地の事実問題と仕様台帳アプローチ]]
 
 ## To-Do / 次に考えること
 
